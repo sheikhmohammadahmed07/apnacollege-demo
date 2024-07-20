@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is my git repo demo of apna college
+This is my demo Git Repository of apna college
+Author - Sheikh Mohammad Ahmed
